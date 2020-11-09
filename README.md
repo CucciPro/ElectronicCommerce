@@ -49,7 +49,7 @@ This project is licensed under the [](https://choosealicense.com/licenses/) lice
 
 ## Mock
 
-![Mock](https://github.com/CucciPro/EmployeeTracker/blob/master/assets/images/demo.gif)
+![Mock](https://github.com/CucciPro/ElectronicCommerce/blob/master/assets/images/demo.gif)
 
 
 ## Questions
