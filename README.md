@@ -21,11 +21,11 @@ A proof of concept for API calls and one-to-many and many-to-one database relati
 * Run "npm i" in terminal to install dependancies. 
 * Create .env file and fill out the following:
 
-DB_NAME='ecommerce_db'
+    DB_NAME='ecommerce_db'
 
-DB_USER='root'
+    DB_USER='root'
 
-DB_PW=''
+    DB_PW=''
 
 * Login to mysql and run "source db/schema.sql" to create the database. Use "\q" to exit.
 * Seed the database by running "npm run seed"
